@@ -300,7 +300,8 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="31" y="104" width="1210" height="595" extended-state="0" />
+    <frame x="31" y="104" width="1210" height="595" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
